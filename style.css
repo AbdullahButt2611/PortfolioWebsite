@@ -1,0 +1,68 @@
+/* Start Global */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+    font-family: 'Roboto' , sans-serif;
+    color: #eee;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background: url("images/sitebg.jpg") no-repeat center fixed;                            /* Puts image in background and keeps it fixed*/
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+    color: #eee;
+}
+
+p{
+    font-size: 1.8rem;
+    font-weight: 300;
+}
+
+img{
+    width: 100%;
+}
+/* End Global */
+
+/* Start Reusable */
+/* End Reusable */
+
+/* Start header */
+
+/* End header */
+
+/* Start about */
+/* End about */
+
+/* Start services */
+/* End services */
+
+/* Start portfolio */
+/* End portfolio */
+
+/* Start Global */
+/* End Global */
+
+/* Start Global */
+/* End Global */
+
+/* Start Global */
+/* End Global */
+
+/* Start Global */
+/* End Global */
+
+/* Start Global */
+/* End Global */
+
+/* Start Global */
+/* End Global */
